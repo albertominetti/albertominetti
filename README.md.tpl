@@ -1,6 +1,6 @@
 # :wave:
 
-Here you'll mostly find terraform, rust, python, and shell scripts, with a spattering of vim and go.
+Here you'll mostly find Java, Spring and Python.
 
 #### Some things I've been working on...
 {{ range recentContributions 10 }}
