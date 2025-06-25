@@ -1,0 +1,44 @@
+name: Render readme
+
+on:
+  push:
+  schedule:
+    - cron: "0 */1 * * *"
+
+jobs:
+  markscribe:
+    runs-on: ubuntu-latest
+
+    steps:
+      - run: sudo apt update && sudo apt -y install git
+
+      - uses: actions/checkout@master
+        with:
+          # so we can commit --amend and push -f
+          fetch-depth: 2
+
+      - uses: muesli/readme-scribe@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        with:
+          template: README.md.tpl
+          writeTo: README.md
+
+      - name: Reuse message
+        run: |
+          # Actions do not support multiline `::set-output`s
+          echo 'COMMIT_MSG<<EOM' >> "$GITHUB_ENV"
+          git log -n1 --pretty='%B' >> "$GITHUB_ENV"
+          echo 'EOM' >> "$GITHUB_ENV"
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          # --amend --no-edit doesn't work because of default --message
+          # (effectively --no-edit is ignored)
+          commit_message: ${{ env.COMMIT_MSG }}
+          commit_options: --amend --no-edit
+          push_options: --force
+          # so as not to make too shallow for commit --amend and push -f
+          skip_fetch: true
