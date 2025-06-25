@@ -31,7 +31,7 @@ jobs:
           git log -n1 --pretty='%B' >> "$GITHUB_ENV"
           echo 'EOM' >> "$GITHUB_ENV"
 
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: stefanzweifel/git-auto-commit-action@v6
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
