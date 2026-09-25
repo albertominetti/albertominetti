@@ -1,0 +1,43 @@
+# :wave:
+
+I have been developing software for the last 15 years on big confidential projects for corporate companies, mainly components in the world's biggest distributed trading systems; I push with the company email on the corporate version control, so do not expect to find any job related project on my personal portfolio on github. For work related topics I have a public [profile on LinkedIn](https://www.linkedin.com/in/minetti/).
+
+Here you'll mostly find coding challenges in Java, Spring and Python, some code for LLM agents and AI.
+
+#### Some things I've been working on...
+
+- [dantevier/swiss-ai-week-mcp](https://github.com/dantevier/swiss-ai-week-mcp) - progetto per swiss ai week (1 day ago)
+- [albertominetti/ninnananna](https://github.com/albertominetti/ninnananna) - Offline Android lullaby player: bundled &#43; YouTube-downloaded audio, sleep timer, repeat, light/dark/AMOLED themes, and Chromecast streaming.  (4 days ago)
+- [albertominetti/python-notebooks](https://github.com/albertominetti/python-notebooks) - Rolling returns in 5 years, using reference currency and distributions (1 week ago)
+- [albertominetti/daily-leetcode-notifier](https://github.com/albertominetti/daily-leetcode-notifier) - Check LeetCode&#39;s daily challenge for your account and get Telegram alerts. Scriptable with python, no dependencies. (1 week ago)
+- [albertominetti/simple-kpi](https://github.com/albertominetti/simple-kpi) -  (2 weeks ago)
+- [joaompinto/janito](https://github.com/joaompinto/janito) - Minimalistic LLM Client (3 weeks ago)
+- [albertominetti/telegram-print-bot](https://github.com/albertominetti/telegram-print-bot) - Telegram bot that prints via CUPS (1 month ago)
+- [albertominetti/RopeDataSheet](https://github.com/albertominetti/RopeDataSheet) - PDF generator for data sheet of ropes (1 month ago)
+- [albertominetti/daily-leetcode-redirect](https://github.com/albertominetti/daily-leetcode-redirect) - Webpage that redirects to today&#39;s LeetCode daily challenge problem (1 month ago)
+- [albertominetti/fitbit2garmin](https://github.com/albertominetti/fitbit2garmin) - Convert data from fitbit into garmin and viceversa (2 months ago)
+
+#### Some repos (other than my own) with releases I've contributed to recently...
+
+
+- [joaompinto/janito](https://github.com/joaompinto/janito) ([v4.44.0](https://github.com/joaompinto/janito/releases/tag/v4.44.0), 3 days ago) - Minimalistic LLM Client
+
+
+- [albertominetti/ninnananna](https://github.com/albertominetti/ninnananna) ([v7.9](https://github.com/albertominetti/ninnananna/releases/tag/v7.9), 4 days ago) - Offline Android lullaby player: bundled &#43; YouTube-downloaded audio, sleep timer, repeat, light/dark/AMOLED themes, and Chromecast streaming. 
+
+
+- [albertominetti/RopeDataSheet](https://github.com/albertominetti/RopeDataSheet) ([v2026-05-17](https://github.com/albertominetti/RopeDataSheet/releases/tag/v2026-05-17), 4 months ago) - PDF generator for data sheet of ropes
+
+
+- [ikignosis/janito3](https://github.com/ikignosis/janito3) ([v3.15.1](https://github.com/ikignosis/janito3/releases/tag/v3.15.1), 1 year ago) - Large Language Model Thin Client
+
+
+###### Shout-out to [@muesli](//github.com/muesli/markscribe) for the auto-generating readme
+
+---
+
+## GitHub Space Shooter
+
+<p align=center>
+<img src="game.gif" alt="GitHub Space Shooter">
+</p>
