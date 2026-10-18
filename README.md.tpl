@@ -21,7 +21,9 @@ My public repositories showcase hands-on work in LLM tooling and AI-powered soft
 ## Some repos (other than my own) with releases I've contributed to recently...
 {{ range recentReleases 10 }}
 {{ if ne (slice .URL 0 34) "https://github.com/albertominetti/" }}
-- [{{ .Name }}]({{ .URL }}) ([{{ .LastRelease.TagName }}]({{ .LastRelease.URL }}), {{ humanize .LastRelease.PublishedAt }}) - {{ .Description }}
+### [{{ .Name }}]({{ .URL }}) ([{{ .LastRelease.TagName }}]({{ .LastRelease.URL }}), {{ humanize .LastRelease.PublishedAt }})
+
+{{ .Description }}
 {{ end }}
 {{- end }}
 
