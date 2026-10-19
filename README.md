@@ -13,13 +13,13 @@ My public repositories showcase hands-on work in LLM tooling and AI-powered soft
 
 ## Some things I've been working on...
 
-### [joaompinto/janito](https://github.com/joaompinto/janito) (1 day ago)
+### [joaompinto/janito](https://github.com/joaompinto/janito) (2 days ago)
 
 AI Coding Agent with tools, MCP, and skills
-### [openclaw/openclaw](https://github.com/openclaw/openclaw) (4 days ago)
+### [openclaw/openclaw](https://github.com/openclaw/openclaw) (5 days ago)
 
 The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
-### [albertominetti/node-red-contrib-arp-revamped](https://github.com/albertominetti/node-red-contrib-arp-revamped) (5 days ago)
+### [albertominetti/node-red-contrib-arp-revamped](https://github.com/albertominetti/node-red-contrib-arp-revamped) (6 days ago)
 
 Node-RED ARP node - fixed parser (fork of node-red-contrib-arp)
 ### [albertominetti/daily-leetcode-notifier](https://github.com/albertominetti/daily-leetcode-notifier) (1 week ago)
@@ -47,14 +47,14 @@ MCP server grounding Switzerland questions in official sources: Zefix companies,
 ## Some repos (other than my own) with releases I've contributed to recently...
 
 
-### [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.10.5](https://github.com/openclaw/openclaw/releases/tag/v2026.10.5), 1 day ago)
-
-The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
-
-
-### [joaompinto/janito](https://github.com/joaompinto/janito) ([v4.49.0](https://github.com/joaompinto/janito/releases/tag/v4.49.0), 4 days ago)
+### [joaompinto/janito](https://github.com/joaompinto/janito) ([v4.50.0](https://github.com/joaompinto/janito/releases/tag/v4.50.0), 1 day ago)
 
 AI Coding Agent with tools, MCP, and skills
+
+
+### [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.10.5](https://github.com/openclaw/openclaw/releases/tag/v2026.10.5), 2 days ago)
+
+The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
 
 
 ### [joaompinto/janitoold](https://github.com/joaompinto/janitoold) ([v4.46.0](https://github.com/joaompinto/janitoold/releases/tag/v4.46.0), 1 week ago)
