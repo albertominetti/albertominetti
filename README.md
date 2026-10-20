@@ -13,13 +13,13 @@ My public repositories showcase hands-on work in LLM tooling and AI-powered soft
 
 ## Some things I've been working on...
 
-### [joaompinto/janito](https://github.com/joaompinto/janito) (2 days ago)
+### [joaompinto/janito](https://github.com/joaompinto/janito) (3 days ago)
 
 AI Coding Agent with tools, MCP, and skills
-### [openclaw/openclaw](https://github.com/openclaw/openclaw) (5 days ago)
+### [openclaw/openclaw](https://github.com/openclaw/openclaw) (6 days ago)
 
 The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
-### [albertominetti/node-red-contrib-arp-revamped](https://github.com/albertominetti/node-red-contrib-arp-revamped) (6 days ago)
+### [albertominetti/node-red-contrib-arp-revamped](https://github.com/albertominetti/node-red-contrib-arp-revamped) (1 week ago)
 
 Node-RED ARP node - fixed parser (fork of node-red-contrib-arp)
 ### [albertominetti/daily-leetcode-notifier](https://github.com/albertominetti/daily-leetcode-notifier) (1 week ago)
@@ -34,7 +34,7 @@ Demo of consumer-driven contract testing with Pact (Java &#43; Spring Boot): one
 ### [albertominetti/spring-aop-demo](https://github.com/albertominetti/spring-aop-demo) (1 week ago)
 
 Spring Boot demo of AOP (aspects, pointcuts, advice types)
-### [albertominetti/order-book](https://github.com/albertominetti/order-book) (1 week ago)
+### [albertominetti/order-book](https://github.com/albertominetti/order-book) (2 weeks ago)
 
 In-memory multi-instrument order book / matching engine with a Spring Boot 4 REST API: one matching engine per symbol, price-time priority, limit and market orders, partial fills, cancel, book snapshot.
 ### [albertominetti/split-more-wise](https://github.com/albertominetti/split-more-wise) (2 weeks ago)
@@ -47,12 +47,12 @@ MCP server grounding Switzerland questions in official sources: Zefix companies,
 ## Some repos (other than my own) with releases I've contributed to recently...
 
 
-### [joaompinto/janito](https://github.com/joaompinto/janito) ([v4.50.0](https://github.com/joaompinto/janito/releases/tag/v4.50.0), 1 day ago)
+### [joaompinto/janito](https://github.com/joaompinto/janito) ([v4.50.0](https://github.com/joaompinto/janito/releases/tag/v4.50.0), 2 days ago)
 
 AI Coding Agent with tools, MCP, and skills
 
 
-### [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.10.5](https://github.com/openclaw/openclaw/releases/tag/v2026.10.5), 2 days ago)
+### [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.10.5](https://github.com/openclaw/openclaw/releases/tag/v2026.10.5), 3 days ago)
 
 The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
 
