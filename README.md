@@ -13,7 +13,7 @@ My public repositories showcase hands-on work in LLM tooling and AI-powered soft
 
 ## Some things I've been working on...
 
-### [joaompinto/janito](https://github.com/joaompinto/janito) (4 days ago)
+### [joaompinto/janito](https://github.com/joaompinto/janito) (5 days ago)
 
 AI Coding Agent with tools, MCP, and skills
 ### [openclaw/openclaw](https://github.com/openclaw/openclaw) (1 week ago)
@@ -28,10 +28,10 @@ Check LeetCode&#39;s daily challenge for your account and get Telegram alerts. S
 ### [albertominetti/meal-pilot](https://github.com/albertominetti/meal-pilot) (1 week ago)
 
 MealPilot is an AI-powered agentic application that creates personalized weekly meal plans based on dietary preferences, nutritional goals, budget, health data, and schedule. It coordinates meal selection, recipe recommendations, ingredient reuse, and grocery list generation to make weekly meal preparation effortless.
-### [albertominetti/pact-java-demo](https://github.com/albertominetti/pact-java-demo) (1 week ago)
+### [albertominetti/pact-java-demo](https://github.com/albertominetti/pact-java-demo) (2 weeks ago)
 
 Demo of consumer-driven contract testing with Pact (Java &#43; Spring Boot): one producer, two consumers, and a Pact Broker registry.
-### [albertominetti/spring-aop-demo](https://github.com/albertominetti/spring-aop-demo) (1 week ago)
+### [albertominetti/spring-aop-demo](https://github.com/albertominetti/spring-aop-demo) (2 weeks ago)
 
 Spring Boot demo of AOP (aspects, pointcuts, advice types)
 ### [albertominetti/order-book](https://github.com/albertominetti/order-book) (2 weeks ago)
@@ -47,12 +47,12 @@ MCP server grounding Switzerland questions in official sources: Zefix companies,
 ## Some repos (other than my own) with releases I've contributed to recently...
 
 
-### [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.10.10-beta.3](https://github.com/openclaw/openclaw/releases/tag/v2026.10.10-beta.3), 1 day ago)
+### [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.10.6](https://github.com/openclaw/openclaw/releases/tag/v2026.10.6), 1 day ago)
 
 The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
 
 
-### [joaompinto/janito](https://github.com/joaompinto/janito) ([v4.50.0](https://github.com/joaompinto/janito/releases/tag/v4.50.0), 3 days ago)
+### [joaompinto/janito](https://github.com/joaompinto/janito) ([v4.50.0](https://github.com/joaompinto/janito/releases/tag/v4.50.0), 4 days ago)
 
 AI Coding Agent with tools, MCP, and skills
 
