@@ -47,7 +47,7 @@ MCP server grounding Switzerland questions in official sources: Zefix companies,
 ## Some repos (other than my own) with releases I've contributed to recently...
 
 
-### [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.10.6](https://github.com/openclaw/openclaw/releases/tag/v2026.10.6), 2 days ago)
+### [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.9.34](https://github.com/openclaw/openclaw/releases/tag/v2026.9.34), today)
 
 The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
 
