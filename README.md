@@ -13,6 +13,9 @@ My public repositories showcase hands-on work in LLM tooling and AI-powered soft
 
 ## Some things I've been working on...
 
+### [meta-hackers/fairbuy](https://github.com/meta-hackers/fairbuy) (1 day ago)
+
+Personal shopping agent: total-cost comparisons for new and used products, flights and food. Meta Hackathon concept.
 ### [joaompinto/janito](https://github.com/joaompinto/janito) (1 week ago)
 
 AI Coding Agent with tools, MCP, and skills
@@ -28,26 +31,23 @@ Check LeetCode&#39;s daily challenge for your account and get Telegram alerts. S
 ### [albertominetti/meal-pilot](https://github.com/albertominetti/meal-pilot) (2 weeks ago)
 
 MealPilot is an AI-powered agentic application that creates personalized weekly meal plans based on dietary preferences, nutritional goals, budget, health data, and schedule. It coordinates meal selection, recipe recommendations, ingredient reuse, and grocery list generation to make weekly meal preparation effortless.
-### [albertominetti/pact-java-demo](https://github.com/albertominetti/pact-java-demo) (2 weeks ago)
-
-Demo of consumer-driven contract testing with Pact (Java &#43; Spring Boot): one producer, two consumers, and a Pact Broker registry.
 ### [albertominetti/spring-aop-demo](https://github.com/albertominetti/spring-aop-demo) (2 weeks ago)
 
 Spring Boot demo of AOP (aspects, pointcuts, advice types)
+### [albertominetti/pact-java-demo](https://github.com/albertominetti/pact-java-demo) (2 weeks ago)
+
+Demo of consumer-driven contract testing with Pact (Java &#43; Spring Boot): one producer, two consumers, and a Pact Broker registry.
 ### [albertominetti/order-book](https://github.com/albertominetti/order-book) (2 weeks ago)
 
 In-memory multi-instrument order book / matching engine with a Spring Boot 4 REST API: one matching engine per symbol, price-time priority, limit and market orders, partial fills, cancel, book snapshot.
 ### [albertominetti/split-more-wise](https://github.com/albertominetti/split-more-wise) (3 weeks ago)
 
 Self-hosted group expense splitter (mini Splitwise) with a single-operator model. Multi-currency (CHF/EUR/USD/GBP) using ECB daily rates. Node.js, zero dependencies.
-### [dantevier/swiss-ai-week-mcp](https://github.com/dantevier/swiss-ai-week-mcp) (4 weeks ago)
-
-MCP server grounding Switzerland questions in official sources: Zefix companies, 2026 health premiums, housing, driving licences, school holidays, weather &amp; more. Built for Swiss {ai} Weeks Zurich 2026.
 
 ## Some repos (other than my own) with releases I've contributed to recently...
 
 
-### [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.9.34](https://github.com/openclaw/openclaw/releases/tag/v2026.9.34), 2 days ago)
+### [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.9.34](https://github.com/openclaw/openclaw/releases/tag/v2026.9.34), 3 days ago)
 
 The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
 
