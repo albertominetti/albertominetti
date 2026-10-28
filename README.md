@@ -13,13 +13,13 @@ My public repositories showcase hands-on work in LLM tooling and AI-powered soft
 
 ## Some things I've been working on...
 
-### [meta-hackers/fairbuy](https://github.com/meta-hackers/fairbuy) (2 days ago)
+### [meta-hackers/fairbuy](https://github.com/meta-hackers/fairbuy) (3 days ago)
 
 Personal shopping agent: total-cost comparisons for new and used products, flights and food. Meta Hackathon concept.
 ### [joaompinto/janito](https://github.com/joaompinto/janito) (1 week ago)
 
 AI Coding Agent with tools, MCP, and skills
-### [openclaw/openclaw](https://github.com/openclaw/openclaw) (1 week ago)
+### [openclaw/openclaw](https://github.com/openclaw/openclaw) (2 weeks ago)
 
 The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
 ### [albertominetti/node-red-contrib-arp-revamped](https://github.com/albertominetti/node-red-contrib-arp-revamped) (2 weeks ago)
@@ -47,7 +47,7 @@ Self-hosted group expense splitter (mini Splitwise) with a single-operator model
 ## Some repos (other than my own) with releases I've contributed to recently...
 
 
-### [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.10.8](https://github.com/openclaw/openclaw/releases/tag/v2026.10.8), 1 day ago)
+### [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.10.8](https://github.com/openclaw/openclaw/releases/tag/v2026.10.8), 2 days ago)
 
 The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
 
@@ -57,7 +57,7 @@ The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 AI Coding Agent with tools, MCP, and skills
 
 
-### [joaompinto/janitoold](https://github.com/joaompinto/janitoold) ([v4.46.0](https://github.com/joaompinto/janitoold/releases/tag/v4.46.0), 2 weeks ago)
+### [joaompinto/janitoold](https://github.com/joaompinto/janitoold) ([v4.46.0](https://github.com/joaompinto/janitoold/releases/tag/v4.46.0), 3 weeks ago)
 
 Minimalistic LLM Client
 
