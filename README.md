@@ -16,13 +16,13 @@ My public repositories showcase hands-on work in LLM tooling and AI-powered soft
 ### [meta-hackers/fairbuy-alberto-demo](https://github.com/meta-hackers/fairbuy-alberto-demo) (1 day ago)
 
 Interactive frontend-only FairBuy demo with synthetic products and scripted conversations
-### [meta-hackers/fairbuy-alessandro-demo](https://github.com/meta-hackers/fairbuy-alessandro-demo) (5 days ago)
-
-FairBuy demo: shared core contract, deterministic ranking engine and NestJS API on synthetic fixtures
-### [meta-hackers/fairbuy](https://github.com/meta-hackers/fairbuy) (5 days ago)
+### [meta-hackers/fairbuy](https://github.com/meta-hackers/fairbuy) (1 day ago)
 
 Personal shopping agent: total-cost comparisons for new and used products, flights and food. Meta Hackathon concept.
-### [joaompinto/janito](https://github.com/joaompinto/janito) (1 week ago)
+### [meta-hackers/fairbuy-alessandro-demo](https://github.com/meta-hackers/fairbuy-alessandro-demo) (6 days ago)
+
+FairBuy demo: shared core contract, deterministic ranking engine and NestJS API on synthetic fixtures
+### [joaompinto/janito](https://github.com/joaompinto/janito) (2 weeks ago)
 
 AI Coding Agent with tools, MCP, and skills
 ### [openclaw/openclaw](https://github.com/openclaw/openclaw) (2 weeks ago)
@@ -47,7 +47,7 @@ Spring Boot demo of AOP (aspects, pointcuts, advice types)
 ## Some repos (other than my own) with releases I've contributed to recently...
 
 
-### [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.10.10-beta.5](https://github.com/openclaw/openclaw/releases/tag/v2026.10.10-beta.5), 1 day ago)
+### [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.10.10-beta.5](https://github.com/openclaw/openclaw/releases/tag/v2026.10.10-beta.5), 2 days ago)
 
 The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
 
