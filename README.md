@@ -16,10 +16,10 @@ My public repositories showcase hands-on work in LLM tooling and AI-powered soft
 ### [meta-hackers/fairbuy](https://github.com/meta-hackers/fairbuy) (today)
 
 AI shopping research: describe what you need, refine preferences, and compare source-backed products and seller offers. Meta Hackathon project.
-### [meta-hackers/fairbuy-sources-catalog](https://github.com/meta-hackers/fairbuy-sources-catalog) (1 day ago)
+### [meta-hackers/fairbuy-sources-catalog](https://github.com/meta-hackers/fairbuy-sources-catalog) (2 days ago)
 
 FairBuy discovery source catalog: countries, verticals, seller/spec roles, and the published JSON consumed by the app.
-### [meta-hackers/fairbuy-alberto-demo](https://github.com/meta-hackers/fairbuy-alberto-demo) (3 days ago)
+### [meta-hackers/fairbuy-alberto-demo](https://github.com/meta-hackers/fairbuy-alberto-demo) (4 days ago)
 
 Interactive frontend-only FairBuy demo with synthetic products and scripted conversations
 ### [meta-hackers/fairbuy-alessandro-demo](https://github.com/meta-hackers/fairbuy-alessandro-demo) (1 week ago)
@@ -31,7 +31,7 @@ AI Coding Agent with tools, MCP, and skills
 ### [openclaw/openclaw](https://github.com/openclaw/openclaw) (2 weeks ago)
 
 The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
-### [albertominetti/node-red-contrib-arp-revamped](https://github.com/albertominetti/node-red-contrib-arp-revamped) (2 weeks ago)
+### [albertominetti/node-red-contrib-arp-revamped](https://github.com/albertominetti/node-red-contrib-arp-revamped) (3 weeks ago)
 
 Node-RED ARP node - fixed parser (fork of node-red-contrib-arp)
 ### [albertominetti/daily-leetcode-notifier](https://github.com/albertominetti/daily-leetcode-notifier) (3 weeks ago)
@@ -47,7 +47,7 @@ Spring Boot demo of AOP (aspects, pointcuts, advice types)
 ## Some repos (other than my own) with releases I've contributed to recently...
 
 
-### [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.10.10-beta.5](https://github.com/openclaw/openclaw/releases/tag/v2026.10.10-beta.5), 4 days ago)
+### [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.10.10](https://github.com/openclaw/openclaw/releases/tag/v2026.10.10), 1 day ago)
 
 The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
 
