@@ -13,13 +13,13 @@ My public repositories showcase hands-on work in LLM tooling and AI-powered soft
 
 ## Some things I've been working on...
 
-### [meta-hackers/fairbuy-sources-catalog](https://github.com/meta-hackers/fairbuy-sources-catalog) (3 days ago)
+### [meta-hackers/fairbuy-sources-catalog](https://github.com/meta-hackers/fairbuy-sources-catalog) (4 days ago)
 
 FairBuy discovery source catalog: countries, verticals, seller/spec roles, and the published JSON consumed by the app.
-### [passteque/gluetun](https://github.com/passteque/gluetun) (3 days ago)
+### [passteque/gluetun](https://github.com/passteque/gluetun) (4 days ago)
 
 VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
-### [meta-hackers/fairbuy](https://github.com/meta-hackers/fairbuy) (5 days ago)
+### [meta-hackers/fairbuy](https://github.com/meta-hackers/fairbuy) (6 days ago)
 
 AI shopping research: describe what you need, refine preferences, and compare source-backed products and seller offers. Meta Hackathon project.
 ### [meta-hackers/fairbuy-alberto-demo](https://github.com/meta-hackers/fairbuy-alberto-demo) (1 week ago)
@@ -47,12 +47,12 @@ MealPilot is an AI-powered agentic application that creates personalized weekly 
 ## Some repos (other than my own) with releases I've contributed to recently...
 
 
-### [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.11.2](https://github.com/openclaw/openclaw/releases/tag/v2026.11.2), 1 day ago)
+### [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.11.2](https://github.com/openclaw/openclaw/releases/tag/v2026.11.2), 2 days ago)
 
 The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
 
 
-### [meta-hackers/fairbuy](https://github.com/meta-hackers/fairbuy) ([v1.0.0](https://github.com/meta-hackers/fairbuy/releases/tag/v1.0.0), 4 days ago)
+### [meta-hackers/fairbuy](https://github.com/meta-hackers/fairbuy) ([v1.0.0](https://github.com/meta-hackers/fairbuy/releases/tag/v1.0.0), 5 days ago)
 
 AI shopping research: describe what you need, refine preferences, and compare source-backed products and seller offers. Meta Hackathon project.
 
