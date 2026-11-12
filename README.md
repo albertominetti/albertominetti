@@ -13,21 +13,21 @@ My public repositories showcase hands-on work in LLM tooling and AI-powered soft
 
 ## Some things I've been working on...
 
-### [meta-hackers/fairbuy](https://github.com/meta-hackers/fairbuy) (1 day ago)
+### [meta-hackers/fairbuy](https://github.com/meta-hackers/fairbuy) (2 days ago)
 
 AI shopping research: describe what you need, refine preferences, and compare source-backed products and seller offers. Meta Hackathon project.
-### [oliveres/node-red-contrib-levoit-purifier](https://github.com/oliveres/node-red-contrib-levoit-purifier) (2 days ago)
-
-
-### [joaompinto/janito](https://github.com/joaompinto/janito) (2 days ago)
+### [joaompinto/janito](https://github.com/joaompinto/janito) (3 days ago)
 
 AI Coding Agent with tools, MCP, and skills
-### [passteque/gluetun](https://github.com/passteque/gluetun) (6 days ago)
+### [oliveres/node-red-contrib-levoit-purifier](https://github.com/oliveres/node-red-contrib-levoit-purifier) (3 days ago)
 
-VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
-### [meta-hackers/fairbuy-sources-catalog](https://github.com/meta-hackers/fairbuy-sources-catalog) (6 days ago)
+
+### [meta-hackers/fairbuy-sources-catalog](https://github.com/meta-hackers/fairbuy-sources-catalog) (1 week ago)
 
 FairBuy discovery source catalog: countries, verticals, seller/spec roles, and the published JSON consumed by the app.
+### [passteque/gluetun](https://github.com/passteque/gluetun) (1 week ago)
+
+VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 ### [meta-hackers/fairbuy-alberto-demo](https://github.com/meta-hackers/fairbuy-alberto-demo) (1 week ago)
 
 Interactive frontend-only FairBuy demo with synthetic products and scripted conversations
@@ -37,7 +37,7 @@ FairBuy demo: shared core contract, deterministic ranking engine and NestJS API 
 ### [openclaw/openclaw](https://github.com/openclaw/openclaw) (4 weeks ago)
 
 The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
-### [albertominetti/node-red-contrib-arp-revamped](https://github.com/albertominetti/node-red-contrib-arp-revamped) (4 weeks ago)
+### [albertominetti/node-red-contrib-arp-revamped](https://github.com/albertominetti/node-red-contrib-arp-revamped) (1 month ago)
 
 Node-RED ARP node - fixed parser (fork of node-red-contrib-arp)
 ### [albertominetti/daily-leetcode-notifier](https://github.com/albertominetti/daily-leetcode-notifier) (1 month ago)
@@ -47,17 +47,17 @@ Check LeetCode&#39;s daily challenge for your account and get Telegram alerts. S
 ## Some repos (other than my own) with releases I've contributed to recently...
 
 
-### [joaompinto/janito](https://github.com/joaompinto/janito) ([v4.51.0](https://github.com/joaompinto/janito/releases/tag/v4.51.0), 1 day ago)
+### [joaompinto/janito](https://github.com/joaompinto/janito) ([v4.51.0](https://github.com/joaompinto/janito/releases/tag/v4.51.0), 2 days ago)
 
 AI Coding Agent with tools, MCP, and skills
 
 
-### [oliveres/node-red-contrib-levoit-purifier](https://github.com/oliveres/node-red-contrib-levoit-purifier) ([v0.3.1](https://github.com/oliveres/node-red-contrib-levoit-purifier/releases/tag/v0.3.1), 1 day ago)
+### [oliveres/node-red-contrib-levoit-purifier](https://github.com/oliveres/node-red-contrib-levoit-purifier) ([v0.3.1](https://github.com/oliveres/node-red-contrib-levoit-purifier/releases/tag/v0.3.1), 2 days ago)
 
 
 
 
-### [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.11.3](https://github.com/openclaw/openclaw/releases/tag/v2026.11.3), 2 days ago)
+### [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.11.3](https://github.com/openclaw/openclaw/releases/tag/v2026.11.3), 3 days ago)
 
 The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
 
