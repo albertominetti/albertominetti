@@ -16,18 +16,18 @@ My public repositories showcase hands-on work in LLM tooling and AI-powered soft
 ### [meta-hackers/fairbuy](https://github.com/meta-hackers/fairbuy) (3 days ago)
 
 AI shopping research: describe what you need, refine preferences, and compare source-backed products and seller offers. Meta Hackathon project.
-### [joaompinto/janito](https://github.com/joaompinto/janito) (4 days ago)
-
-AI Coding Agent with tools, MCP, and skills
 ### [oliveres/node-red-contrib-levoit-purifier](https://github.com/oliveres/node-red-contrib-levoit-purifier) (4 days ago)
 
 
-### [meta-hackers/fairbuy-sources-catalog](https://github.com/meta-hackers/fairbuy-sources-catalog) (1 week ago)
+### [joaompinto/janito](https://github.com/joaompinto/janito) (4 days ago)
 
-FairBuy discovery source catalog: countries, verticals, seller/spec roles, and the published JSON consumed by the app.
+AI Coding Agent with tools, MCP, and skills
 ### [passteque/gluetun](https://github.com/passteque/gluetun) (1 week ago)
 
 VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
+### [meta-hackers/fairbuy-sources-catalog](https://github.com/meta-hackers/fairbuy-sources-catalog) (1 week ago)
+
+FairBuy discovery source catalog: countries, verticals, seller/spec roles, and the published JSON consumed by the app.
 ### [meta-hackers/fairbuy-alberto-demo](https://github.com/meta-hackers/fairbuy-alberto-demo) (2 weeks ago)
 
 Interactive frontend-only FairBuy demo with synthetic products and scripted conversations
