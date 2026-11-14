@@ -13,21 +13,21 @@ My public repositories showcase hands-on work in LLM tooling and AI-powered soft
 
 ## Some things I've been working on...
 
-### [meta-hackers/fairbuy](https://github.com/meta-hackers/fairbuy) (3 days ago)
+### [meta-hackers/fairbuy](https://github.com/meta-hackers/fairbuy) (4 days ago)
 
 AI shopping research: describe what you need, refine preferences, and compare source-backed products and seller offers. Meta Hackathon project.
-### [joaompinto/janito](https://github.com/joaompinto/janito) (4 days ago)
+### [oliveres/node-red-contrib-levoit-purifier](https://github.com/oliveres/node-red-contrib-levoit-purifier) (5 days ago)
+
+
+### [joaompinto/janito](https://github.com/joaompinto/janito) (5 days ago)
 
 AI Coding Agent with tools, MCP, and skills
-### [oliveres/node-red-contrib-levoit-purifier](https://github.com/oliveres/node-red-contrib-levoit-purifier) (4 days ago)
-
-
-### [meta-hackers/fairbuy-sources-catalog](https://github.com/meta-hackers/fairbuy-sources-catalog) (1 week ago)
-
-FairBuy discovery source catalog: countries, verticals, seller/spec roles, and the published JSON consumed by the app.
 ### [passteque/gluetun](https://github.com/passteque/gluetun) (1 week ago)
 
 VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
+### [meta-hackers/fairbuy-sources-catalog](https://github.com/meta-hackers/fairbuy-sources-catalog) (1 week ago)
+
+FairBuy discovery source catalog: countries, verticals, seller/spec roles, and the published JSON consumed by the app.
 ### [meta-hackers/fairbuy-alberto-demo](https://github.com/meta-hackers/fairbuy-alberto-demo) (2 weeks ago)
 
 Interactive frontend-only FairBuy demo with synthetic products and scripted conversations
@@ -47,19 +47,19 @@ Check LeetCode&#39;s daily challenge for your account and get Telegram alerts. S
 ## Some repos (other than my own) with releases I've contributed to recently...
 
 
-### [joaompinto/janito](https://github.com/joaompinto/janito) ([v4.51.0](https://github.com/joaompinto/janito/releases/tag/v4.51.0), 3 days ago)
+### [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.11.5-beta.3](https://github.com/openclaw/openclaw/releases/tag/v2026.11.5-beta.3), today)
+
+The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
+
+
+### [joaompinto/janito](https://github.com/joaompinto/janito) ([v4.51.0](https://github.com/joaompinto/janito/releases/tag/v4.51.0), 4 days ago)
 
 AI Coding Agent with tools, MCP, and skills
 
 
-### [oliveres/node-red-contrib-levoit-purifier](https://github.com/oliveres/node-red-contrib-levoit-purifier) ([v0.3.1](https://github.com/oliveres/node-red-contrib-levoit-purifier/releases/tag/v0.3.1), 3 days ago)
+### [oliveres/node-red-contrib-levoit-purifier](https://github.com/oliveres/node-red-contrib-levoit-purifier) ([v0.3.1](https://github.com/oliveres/node-red-contrib-levoit-purifier/releases/tag/v0.3.1), 4 days ago)
 
 
-
-
-### [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.11.3](https://github.com/openclaw/openclaw/releases/tag/v2026.11.3), 4 days ago)
-
-The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
 
 
 ### [meta-hackers/fairbuy](https://github.com/meta-hackers/fairbuy) ([v1.0.0](https://github.com/meta-hackers/fairbuy/releases/tag/v1.0.0), 1 week ago)
