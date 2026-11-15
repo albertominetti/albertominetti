@@ -13,6 +13,9 @@ My public repositories showcase hands-on work in LLM tooling and AI-powered soft
 
 ## Some things I've been working on...
 
+### [pbozzay/owlet-dashboard](https://github.com/pbozzay/owlet-dashboard) (today)
+
+Local Owlet Dream Sock and Smart Sock history dashboard with FastAPI, SQLite, Chart.js, and Cloudflare Tunnel support
 ### [meta-hackers/fairbuy](https://github.com/meta-hackers/fairbuy) (4 days ago)
 
 AI shopping research: describe what you need, refine preferences, and compare source-backed products and seller offers. Meta Hackathon project.
@@ -22,12 +25,12 @@ AI shopping research: describe what you need, refine preferences, and compare so
 ### [joaompinto/janito](https://github.com/joaompinto/janito) (5 days ago)
 
 AI Coding Agent with tools, MCP, and skills
-### [passteque/gluetun](https://github.com/passteque/gluetun) (1 week ago)
-
-VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 ### [meta-hackers/fairbuy-sources-catalog](https://github.com/meta-hackers/fairbuy-sources-catalog) (1 week ago)
 
 FairBuy discovery source catalog: countries, verticals, seller/spec roles, and the published JSON consumed by the app.
+### [passteque/gluetun](https://github.com/passteque/gluetun) (1 week ago)
+
+VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 ### [meta-hackers/fairbuy-alberto-demo](https://github.com/meta-hackers/fairbuy-alberto-demo) (2 weeks ago)
 
 Interactive frontend-only FairBuy demo with synthetic products and scripted conversations
@@ -40,9 +43,6 @@ The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 ### [albertominetti/node-red-contrib-arp-revamped](https://github.com/albertominetti/node-red-contrib-arp-revamped) (1 month ago)
 
 Node-RED ARP node - fixed parser (fork of node-red-contrib-arp)
-### [albertominetti/daily-leetcode-notifier](https://github.com/albertominetti/daily-leetcode-notifier) (1 month ago)
-
-Check LeetCode&#39;s daily challenge for your account and get Telegram alerts. Scriptable in Python, no dependencies.
 
 ## Some repos (other than my own) with releases I've contributed to recently...
 
@@ -76,6 +76,11 @@ Minimalistic LLM Client
 ### [passteque/gluetun](https://github.com/passteque/gluetun) ([v3.41.3](https://github.com/passteque/gluetun/releases/tag/v3.41.3), 3 months ago)
 
 VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
+
+
+### [pbozzay/owlet-dashboard](https://github.com/pbozzay/owlet-dashboard) ([v0.1.12](https://github.com/pbozzay/owlet-dashboard/releases/tag/v0.1.12), 3 months ago)
+
+Local Owlet Dream Sock and Smart Sock history dashboard with FastAPI, SQLite, Chart.js, and Cloudflare Tunnel support
 
 
 
