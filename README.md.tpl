@@ -1,7 +1,7 @@
 # Alberto Minetti :wave:
 
 I have 15 years of experience developing software for scaling startups and delivering large, confidential projects for corporate clients.
-Recently, I've been working on the architecture of the world's largest distributed trading systems, which support more than $7 trillion in assets under management (AUM).
+I've been working for 7 years on the software architecture of world's largest distributed trading systems, which support more than $7 trillion in assets under management (AUM). Currently, I work on the backend systems of the world's largest pure-play private bank.
 
 My professional work is conducted using corporate accounts and company-managed version control, so you won't find confidential, work-related projects in my personal GitHub portfolio.
 
@@ -9,7 +9,7 @@ For professional experience, see my [LinkedIn profile](https://www.linkedin.com/
 
 ---
 
-My public repositories showcase hands-on work in LLM tooling and AI-powered software, alongside open-source contributions such as [Janito](https://github.com/joaompinto/janito), backend engineering with Java and Spring Boot, distributed FinTech components, API and contract testing, and Python-based automation and data analysis.
+My public repositories showcase hands-on work in LLM tooling (such as [Janito](https://github.com/joaompinto/janito)) and AI-powered software, alongside open-source contributions, backend engineering with Java and Spring Boot, distributed FinTech components, API and contract testing, and Python-based automation and data analysis.
 
 ## Some things I've been working on...
 {{ range recentContributions 10 }}
@@ -27,7 +27,7 @@ My public repositories showcase hands-on work in LLM tooling and AI-powered soft
 {{ end }}
 {{- end }}
 
-Shout-out to [@muesli](https://github.com/muesli) for [markscribe](https://github.com/muesli/markscribe), which auto-generates this README.
+> Shout-out to [@muesli](https://github.com/muesli) for [markscribe](https://github.com/muesli/markscribe), which auto-generates this README.
 
 ---
 
