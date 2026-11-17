@@ -13,15 +13,15 @@ My public repositories showcase hands-on work in LLM tooling (such as [Janito](h
 
 ## Some things I've been working on...
 
-### [pbozzay/owlet-dashboard](https://github.com/pbozzay/owlet-dashboard) (1 day ago)
-
-Local Owlet Dream Sock and Smart Sock history dashboard with FastAPI, SQLite, Chart.js, and Cloudflare Tunnel support
-### [joaompinto/janito](https://github.com/joaompinto/janito) (2 days ago)
-
-AI Coding Agent with tools, MCP, and skills
-### [meta-hackers/fairbuy](https://github.com/meta-hackers/fairbuy) (6 days ago)
+### [meta-hackers/fairbuy](https://github.com/meta-hackers/fairbuy) (1 day ago)
 
 AI shopping research: describe what you need, refine preferences, and compare source-backed products and seller offers. Meta Hackathon project.
+### [pbozzay/owlet-dashboard](https://github.com/pbozzay/owlet-dashboard) (2 days ago)
+
+Local Owlet Dream Sock and Smart Sock history dashboard with FastAPI, SQLite, Chart.js, and Cloudflare Tunnel support
+### [joaompinto/janito](https://github.com/joaompinto/janito) (3 days ago)
+
+AI Coding Agent with tools, MCP, and skills
 ### [oliveres/node-red-contrib-levoit-purifier](https://github.com/oliveres/node-red-contrib-levoit-purifier) (1 week ago)
 
 
@@ -47,22 +47,22 @@ Node-RED ARP node - fixed parser (fork of node-red-contrib-arp)
 ## Some repos (other than my own) with releases I've contributed to recently...
 
 
-### [pbozzay/owlet-dashboard](https://github.com/pbozzay/owlet-dashboard) ([v0.1.14](https://github.com/pbozzay/owlet-dashboard/releases/tag/v0.1.14), 1 day ago)
-
-Local Owlet Dream Sock and Smart Sock history dashboard with FastAPI, SQLite, Chart.js, and Cloudflare Tunnel support
-
-
-### [joaompinto/janito](https://github.com/joaompinto/janito) ([v4.52.0](https://github.com/joaompinto/janito/releases/tag/v4.52.0), 1 day ago)
-
-AI Coding Agent with tools, MCP, and skills
-
-
-### [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.11.4](https://github.com/openclaw/openclaw/releases/tag/v2026.11.4), 1 day ago)
+### [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.11.5](https://github.com/openclaw/openclaw/releases/tag/v2026.11.5), 1 day ago)
 
 The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
 
 
-### [oliveres/node-red-contrib-levoit-purifier](https://github.com/oliveres/node-red-contrib-levoit-purifier) ([v0.3.1](https://github.com/oliveres/node-red-contrib-levoit-purifier/releases/tag/v0.3.1), 6 days ago)
+### [pbozzay/owlet-dashboard](https://github.com/pbozzay/owlet-dashboard) ([v0.1.14](https://github.com/pbozzay/owlet-dashboard/releases/tag/v0.1.14), 2 days ago)
+
+Local Owlet Dream Sock and Smart Sock history dashboard with FastAPI, SQLite, Chart.js, and Cloudflare Tunnel support
+
+
+### [joaompinto/janito](https://github.com/joaompinto/janito) ([v4.52.0](https://github.com/joaompinto/janito/releases/tag/v4.52.0), 2 days ago)
+
+AI Coding Agent with tools, MCP, and skills
+
+
+### [oliveres/node-red-contrib-levoit-purifier](https://github.com/oliveres/node-red-contrib-levoit-purifier) ([v0.3.1](https://github.com/oliveres/node-red-contrib-levoit-purifier/releases/tag/v0.3.1), 1 week ago)
 
 
 
