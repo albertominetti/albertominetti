@@ -13,28 +13,28 @@ My public repositories showcase hands-on work in LLM tooling (such as [Janito](h
 
 ## Some things I've been working on...
 
-### [albertominetti/kata-repl-boardgame](https://github.com/albertominetti/kata-repl-boardgame) (1 day ago)
+### [albertominetti/kata-repl-boardgame](https://github.com/albertominetti/kata-repl-boardgame) (2 days ago)
 
 Java kata: a REPL board game catalog with strategy-based commands and filters, CSV parsing via OpenCSV, and 95 JUnit 5 tests.
-### [meta-hackers/fairbuy](https://github.com/meta-hackers/fairbuy) (3 days ago)
+### [meta-hackers/fairbuy](https://github.com/meta-hackers/fairbuy) (4 days ago)
 
 AI shopping research: describe what you need, refine preferences, and compare source-backed products and seller offers. Meta Hackathon project.
-### [pbozzay/owlet-dashboard](https://github.com/pbozzay/owlet-dashboard) (4 days ago)
+### [pbozzay/owlet-dashboard](https://github.com/pbozzay/owlet-dashboard) (5 days ago)
 
 Local Owlet Dream Sock and Smart Sock history dashboard with FastAPI, SQLite, Chart.js, and Cloudflare Tunnel support
-### [joaompinto/janito](https://github.com/joaompinto/janito) (5 days ago)
+### [joaompinto/janito](https://github.com/joaompinto/janito) (6 days ago)
 
 AI Coding Agent with tools, MCP, and skills
 ### [oliveres/node-red-contrib-levoit-purifier](https://github.com/oliveres/node-red-contrib-levoit-purifier) (1 week ago)
 
 
-### [meta-hackers/fairbuy-sources-catalog](https://github.com/meta-hackers/fairbuy-sources-catalog) (2 weeks ago)
-
-FairBuy discovery source catalog: countries, verticals, seller/spec roles, and the published JSON consumed by the app.
 ### [passteque/gluetun](https://github.com/passteque/gluetun) (2 weeks ago)
 
 VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
-### [meta-hackers/fairbuy-alberto-demo](https://github.com/meta-hackers/fairbuy-alberto-demo) (2 weeks ago)
+### [meta-hackers/fairbuy-sources-catalog](https://github.com/meta-hackers/fairbuy-sources-catalog) (2 weeks ago)
+
+FairBuy discovery source catalog: countries, verticals, seller/spec roles, and the published JSON consumed by the app.
+### [meta-hackers/fairbuy-alberto-demo](https://github.com/meta-hackers/fairbuy-alberto-demo) (3 weeks ago)
 
 Interactive frontend-only FairBuy demo with synthetic products and scripted conversations
 ### [meta-hackers/fairbuy-alessandro-demo](https://github.com/meta-hackers/fairbuy-alessandro-demo) (3 weeks ago)
@@ -47,22 +47,22 @@ The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 ## Some repos (other than my own) with releases I've contributed to recently...
 
 
-### [passteque/gluetun](https://github.com/passteque/gluetun) ([v3.41.4-rc1](https://github.com/passteque/gluetun/releases/tag/v3.41.4-rc1), 1 day ago)
+### [passteque/gluetun](https://github.com/passteque/gluetun) ([v3.41.4-rc2](https://github.com/passteque/gluetun/releases/tag/v3.41.4-rc2), 1 day ago)
 
 VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 
 
-### [joaompinto/janito](https://github.com/joaompinto/janito) ([v4.54.0](https://github.com/joaompinto/janito/releases/tag/v4.54.0), 1 day ago)
+### [joaompinto/janito](https://github.com/joaompinto/janito) ([v4.54.0](https://github.com/joaompinto/janito/releases/tag/v4.54.0), 2 days ago)
 
 AI Coding Agent with tools, MCP, and skills
 
 
-### [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.11.6](https://github.com/openclaw/openclaw/releases/tag/v2026.11.6), 1 day ago)
+### [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.11.6](https://github.com/openclaw/openclaw/releases/tag/v2026.11.6), 2 days ago)
 
 The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
 
 
-### [pbozzay/owlet-dashboard](https://github.com/pbozzay/owlet-dashboard) ([v0.1.14](https://github.com/pbozzay/owlet-dashboard/releases/tag/v0.1.14), 4 days ago)
+### [pbozzay/owlet-dashboard](https://github.com/pbozzay/owlet-dashboard) ([v0.1.14](https://github.com/pbozzay/owlet-dashboard/releases/tag/v0.1.14), 5 days ago)
 
 Local Owlet Dream Sock and Smart Sock history dashboard with FastAPI, SQLite, Chart.js, and Cloudflare Tunnel support
 
