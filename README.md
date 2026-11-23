@@ -13,51 +13,51 @@ My public repositories showcase hands-on work in LLM tooling (such as [Janito](h
 
 ## Some things I've been working on...
 
-### [insider-cluster/web-app](https://github.com/insider-cluster/web-app) (2 days ago)
+### [insider-cluster/web-app](https://github.com/insider-cluster/web-app) (3 days ago)
 
 Outsiders / insider-cluster · web-app
-### [insider-cluster/.github](https://github.com/insider-cluster/.github) (2 days ago)
+### [insider-cluster/.github](https://github.com/insider-cluster/.github) (3 days ago)
 
 Profilo e docs dell&#39;organizzazione insider-cluster
-### [insider-cluster/workers](https://github.com/insider-cluster/workers) (2 days ago)
+### [insider-cluster/workers](https://github.com/insider-cluster/workers) (3 days ago)
 
 Worker unico Render/Oracle: correlator &#43; telegram-channel &#43; telegram-bot
-### [insider-cluster/kafka-avro](https://github.com/insider-cluster/kafka-avro) (2 days ago)
+### [insider-cluster/kafka-avro](https://github.com/insider-cluster/kafka-avro) (3 days ago)
 
 Outsiders / insider-cluster · kafka-avro
-### [insider-cluster/telegram-channel](https://github.com/insider-cluster/telegram-channel) (2 days ago)
+### [insider-cluster/telegram-channel](https://github.com/insider-cluster/telegram-channel) (3 days ago)
 
 Outsiders / insider-cluster · telegram-channel
-### [insider-cluster/Eval](https://github.com/insider-cluster/Eval) (2 days ago)
+### [insider-cluster/Eval](https://github.com/insider-cluster/Eval) (3 days ago)
 
 Outsiders / insider-cluster · Eval
-### [insider-cluster/telegram-bot](https://github.com/insider-cluster/telegram-bot) (2 days ago)
+### [insider-cluster/telegram-bot](https://github.com/insider-cluster/telegram-bot) (3 days ago)
 
 Outsiders / insider-cluster · telegram-bot
-### [insider-cluster/infra](https://github.com/insider-cluster/infra) (2 days ago)
+### [insider-cluster/infra](https://github.com/insider-cluster/infra) (3 days ago)
 
 Outsiders / insider-cluster · infra
-### [insider-cluster/correlator](https://github.com/insider-cluster/correlator) (2 days ago)
+### [insider-cluster/correlator](https://github.com/insider-cluster/correlator) (3 days ago)
 
 Outsiders / insider-cluster · correlator
-### [insider-cluster/ingestor](https://github.com/insider-cluster/ingestor) (2 days ago)
+### [insider-cluster/ingestor](https://github.com/insider-cluster/ingestor) (3 days ago)
 
 Outsiders / insider-cluster · ingestor
 
 ## Some repos (other than my own) with releases I've contributed to recently...
 
 
-### [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.11.7](https://github.com/openclaw/openclaw/releases/tag/v2026.11.7), today)
+### [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.11.10-beta.2](https://github.com/openclaw/openclaw/releases/tag/v2026.11.10-beta.2), 1 day ago)
 
 The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
 
 
-### [passteque/gluetun](https://github.com/passteque/gluetun) ([v3.41.4-rc2](https://github.com/passteque/gluetun/releases/tag/v3.41.4-rc2), 3 days ago)
+### [passteque/gluetun](https://github.com/passteque/gluetun) ([v3.41.4-rc2](https://github.com/passteque/gluetun/releases/tag/v3.41.4-rc2), 4 days ago)
 
 VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 
 
-### [joaompinto/janito](https://github.com/joaompinto/janito) ([v4.54.0](https://github.com/joaompinto/janito/releases/tag/v4.54.0), 4 days ago)
+### [joaompinto/janito](https://github.com/joaompinto/janito) ([v4.54.0](https://github.com/joaompinto/janito/releases/tag/v4.54.0), 5 days ago)
 
 AI Coding Agent with tools, MCP, and skills
 
