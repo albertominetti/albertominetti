@@ -13,51 +13,51 @@ My public repositories showcase hands-on work in LLM tooling (such as [Janito](h
 
 ## Some things I've been working on...
 
-### [insider-cluster/web-app](https://github.com/insider-cluster/web-app) (3 days ago)
+### [joaompinto/janito](https://github.com/joaompinto/janito) (5 days ago)
 
-Outsiders / insider-cluster · web-app
-### [insider-cluster/.github](https://github.com/insider-cluster/.github) (3 days ago)
+AI Coding Agent with tools, MCP, and skills
+### [albertominetti/kata-repl-boardgame](https://github.com/albertominetti/kata-repl-boardgame) (6 days ago)
 
-Profilo e docs dell&#39;organizzazione insider-cluster
-### [insider-cluster/workers](https://github.com/insider-cluster/workers) (3 days ago)
+Java kata: a REPL board game catalog with strategy-based commands and filters, CSV parsing via OpenCSV, and 95 JUnit 5 tests.
+### [meta-hackers/fairbuy](https://github.com/meta-hackers/fairbuy) (1 week ago)
 
-Worker unico Render/Oracle: correlator &#43; telegram-channel &#43; telegram-bot
-### [insider-cluster/kafka-avro](https://github.com/insider-cluster/kafka-avro) (3 days ago)
+AI shopping research: describe what you need, refine preferences, and compare source-backed products and seller offers. Meta Hackathon project.
+### [pbozzay/owlet-dashboard](https://github.com/pbozzay/owlet-dashboard) (1 week ago)
 
-Outsiders / insider-cluster · kafka-avro
-### [insider-cluster/telegram-channel](https://github.com/insider-cluster/telegram-channel) (3 days ago)
+Local Owlet Dream Sock and Smart Sock history dashboard with FastAPI, SQLite, Chart.js, and Cloudflare Tunnel support
+### [oliveres/node-red-contrib-levoit-purifier](https://github.com/oliveres/node-red-contrib-levoit-purifier) (2 weeks ago)
 
-Outsiders / insider-cluster · telegram-channel
-### [insider-cluster/Eval](https://github.com/insider-cluster/Eval) (3 days ago)
 
-Outsiders / insider-cluster · Eval
-### [insider-cluster/telegram-bot](https://github.com/insider-cluster/telegram-bot) (3 days ago)
+### [meta-hackers/fairbuy-sources-catalog](https://github.com/meta-hackers/fairbuy-sources-catalog) (2 weeks ago)
 
-Outsiders / insider-cluster · telegram-bot
-### [insider-cluster/infra](https://github.com/insider-cluster/infra) (3 days ago)
+FairBuy discovery source catalog: countries, verticals, seller/spec roles, and the published JSON consumed by the app.
+### [passteque/gluetun](https://github.com/passteque/gluetun) (2 weeks ago)
 
-Outsiders / insider-cluster · infra
-### [insider-cluster/correlator](https://github.com/insider-cluster/correlator) (3 days ago)
+VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
+### [meta-hackers/fairbuy-alberto-demo](https://github.com/meta-hackers/fairbuy-alberto-demo) (3 weeks ago)
 
-Outsiders / insider-cluster · correlator
-### [insider-cluster/ingestor](https://github.com/insider-cluster/ingestor) (3 days ago)
+Interactive frontend-only FairBuy demo with synthetic products and scripted conversations
+### [meta-hackers/fairbuy-alessandro-demo](https://github.com/meta-hackers/fairbuy-alessandro-demo) (1 month ago)
 
-Outsiders / insider-cluster · ingestor
+FairBuy demo: shared core contract, deterministic ranking engine and NestJS API on synthetic fixtures
+### [openclaw/openclaw](https://github.com/openclaw/openclaw) (1 month ago)
+
+The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
 
 ## Some repos (other than my own) with releases I've contributed to recently...
 
 
-### [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.11.10-beta.2](https://github.com/openclaw/openclaw/releases/tag/v2026.11.10-beta.2), 1 day ago)
+### [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.11.10](https://github.com/openclaw/openclaw/releases/tag/v2026.11.10), today)
 
 The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
 
 
-### [passteque/gluetun](https://github.com/passteque/gluetun) ([v3.41.4-rc2](https://github.com/passteque/gluetun/releases/tag/v3.41.4-rc2), 4 days ago)
+### [passteque/gluetun](https://github.com/passteque/gluetun) ([v3.41.4-rc2](https://github.com/passteque/gluetun/releases/tag/v3.41.4-rc2), 5 days ago)
 
 VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 
 
-### [joaompinto/janito](https://github.com/joaompinto/janito) ([v4.54.0](https://github.com/joaompinto/janito/releases/tag/v4.54.0), 5 days ago)
+### [joaompinto/janito](https://github.com/joaompinto/janito) ([v4.54.0](https://github.com/joaompinto/janito/releases/tag/v4.54.0), 6 days ago)
 
 AI Coding Agent with tools, MCP, and skills
 
@@ -67,7 +67,7 @@ AI Coding Agent with tools, MCP, and skills
 Local Owlet Dream Sock and Smart Sock history dashboard with FastAPI, SQLite, Chart.js, and Cloudflare Tunnel support
 
 
-### [oliveres/node-red-contrib-levoit-purifier](https://github.com/oliveres/node-red-contrib-levoit-purifier) ([v0.3.1](https://github.com/oliveres/node-red-contrib-levoit-purifier/releases/tag/v0.3.1), 1 week ago)
+### [oliveres/node-red-contrib-levoit-purifier](https://github.com/oliveres/node-red-contrib-levoit-purifier) ([v0.3.1](https://github.com/oliveres/node-red-contrib-levoit-purifier/releases/tag/v0.3.1), 2 weeks ago)
 
 
 
