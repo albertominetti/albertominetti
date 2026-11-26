@@ -13,7 +13,7 @@ My public repositories showcase hands-on work in LLM tooling (such as [Janito](h
 
 ## Some things I've been working on...
 
-### [joaompinto/janito](https://github.com/joaompinto/janito) (6 days ago)
+### [joaompinto/janito](https://github.com/joaompinto/janito) (1 week ago)
 
 AI Coding Agent with tools, MCP, and skills
 ### [albertominetti/kata-repl-boardgame](https://github.com/albertominetti/kata-repl-boardgame) (1 week ago)
@@ -28,12 +28,12 @@ Local Owlet Dream Sock and Smart Sock history dashboard with FastAPI, SQLite, Ch
 ### [oliveres/node-red-contrib-levoit-purifier](https://github.com/oliveres/node-red-contrib-levoit-purifier) (2 weeks ago)
 
 
-### [meta-hackers/fairbuy-sources-catalog](https://github.com/meta-hackers/fairbuy-sources-catalog) (2 weeks ago)
-
-FairBuy discovery source catalog: countries, verticals, seller/spec roles, and the published JSON consumed by the app.
-### [passteque/gluetun](https://github.com/passteque/gluetun) (2 weeks ago)
+### [passteque/gluetun](https://github.com/passteque/gluetun) (3 weeks ago)
 
 VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
+### [meta-hackers/fairbuy-sources-catalog](https://github.com/meta-hackers/fairbuy-sources-catalog) (3 weeks ago)
+
+FairBuy discovery source catalog: countries, verticals, seller/spec roles, and the published JSON consumed by the app.
 ### [meta-hackers/fairbuy-alberto-demo](https://github.com/meta-hackers/fairbuy-alberto-demo) (3 weeks ago)
 
 Interactive frontend-only FairBuy demo with synthetic products and scripted conversations
@@ -47,12 +47,12 @@ The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 ## Some repos (other than my own) with releases I've contributed to recently...
 
 
-### [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.10.34](https://github.com/openclaw/openclaw/releases/tag/v2026.10.34), today)
+### [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.10.34](https://github.com/openclaw/openclaw/releases/tag/v2026.10.34), 1 day ago)
 
 The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
 
 
-### [passteque/gluetun](https://github.com/passteque/gluetun) ([v3.41.4-rc2](https://github.com/passteque/gluetun/releases/tag/v3.41.4-rc2), 6 days ago)
+### [passteque/gluetun](https://github.com/passteque/gluetun) ([v3.41.4-rc2](https://github.com/passteque/gluetun/releases/tag/v3.41.4-rc2), 1 week ago)
 
 VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 
