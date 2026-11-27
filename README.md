@@ -34,7 +34,7 @@ VPN client in a thin Docker container for multiple VPN providers, written in Go,
 ### [meta-hackers/fairbuy-sources-catalog](https://github.com/meta-hackers/fairbuy-sources-catalog) (3 weeks ago)
 
 FairBuy discovery source catalog: countries, verticals, seller/spec roles, and the published JSON consumed by the app.
-### [meta-hackers/fairbuy-alberto-demo](https://github.com/meta-hackers/fairbuy-alberto-demo) (3 weeks ago)
+### [meta-hackers/fairbuy-alberto-demo](https://github.com/meta-hackers/fairbuy-alberto-demo) (4 weeks ago)
 
 Interactive frontend-only FairBuy demo with synthetic products and scripted conversations
 ### [meta-hackers/fairbuy-alessandro-demo](https://github.com/meta-hackers/fairbuy-alessandro-demo) (1 month ago)
@@ -47,7 +47,7 @@ The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 ## Some repos (other than my own) with releases I've contributed to recently...
 
 
-### [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.10.34](https://github.com/openclaw/openclaw/releases/tag/v2026.10.34), 1 day ago)
+### [openclaw/openclaw](https://github.com/openclaw/openclaw) ([v2026.12.1-beta.1](https://github.com/openclaw/openclaw/releases/tag/v2026.12.1-beta.1), today)
 
 The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
 
